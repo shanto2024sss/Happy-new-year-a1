@@ -1,4 +1,39 @@
-.banner-text{
-color: aqua;
 
+*{
+
+    font-family: Merriweather;
+
+}
+
+#banner-part{
+    
+background-image:url(./resources/Banner\ Image.png) ;
+width: 1320px;
+height: 600px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+#banner-reletive{
+   
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.banner-text{
+
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; 
 }
