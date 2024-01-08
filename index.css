@@ -76,3 +76,44 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
+.partyimg{
+
+    background-image: url(./resources/Vectorrr.png);
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+display: flex;
+align-items: center;
+color: #FFF;
+}
+.partyimg{
+    padding-left: 126px;
+}
+.hp{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+.hpp{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.hppp{
+
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
