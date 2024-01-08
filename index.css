@@ -37,3 +37,42 @@ align-items: center;
     font-weight: 900;
     line-height: 95px; 
 }
+
+.discountpart{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+
+}
+.discountclass{
+
+text-align: center;
+
+}
+
+.newyearphoto{
+display: flex;
+justify-content: center;
+
+}
+.pp{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.hh{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
