@@ -184,7 +184,7 @@ line-height: normal;
 text-transform: capitalize;
 }
 
-#ptwo{
+.ptwo{
     color: rgba(7, 2, 17, 0.60);
 font-family: Inter;
 font-size: 20px;
@@ -197,4 +197,38 @@ padding: 15px;
 border-radius: 463px;
 border: 15px solid #F00;
 
+}
+.gift{
+
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.our{
+
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.sit{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+
+}
+
+.fleximg{
+
+    display: flex;
+    gap: 35px;
 }
